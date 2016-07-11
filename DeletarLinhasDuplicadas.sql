@@ -1,0 +1,1 @@
+DELETE FROM table WHERE name IN (SELECT name FROM table GROUP BY name HAVING COUNT(*) > 1) AND NOT id IN (SELECT min(id) FROM table GROUP BY name)
