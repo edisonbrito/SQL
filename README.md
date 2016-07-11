@@ -1,3 +1,4 @@
 # Scripts-SQL
 
-Scritps SQL usandos no dia a dia.
+- Scritps SQL usandos no dia a dia.
+- Códigos demos.
